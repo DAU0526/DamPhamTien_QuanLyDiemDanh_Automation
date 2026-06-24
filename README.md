@@ -14,7 +14,7 @@ Intern-QC/
 |   |   |-- Automation_Test_Report_By_Function.xlsx # Báo cáo kết quả kiểm thử tự động theo chức năng
 |   |   `-- Automation_Manual_Comparison.xlsx       # Bảng so sánh kết quả kiểm thử thủ công và tự động
 |   |
-|   |-- locators/                         # Python files chứa locators tách biệt hoàn toàn
+|   |-- locators/                         # Python files chứa locators
 |   |   |-- __init__.py
 |   |   |-- LoginPageLocators.py
 |   |   |-- RegisterPageLocators.py
